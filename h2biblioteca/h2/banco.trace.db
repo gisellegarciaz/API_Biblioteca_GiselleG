@@ -1,0 +1,6 @@
+2025-10-15 16:39:44.389018-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]GET * FROM LIVRO"; expected "GRANT"; SQL statement:
+GET * FROM LIVRO [42001-232]
+2025-10-15 16:39:46.805734-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]GET * FROM LIVRO"; expected "GRANT"; SQL statement:
+GET * FROM LIVRO [42001-232]
